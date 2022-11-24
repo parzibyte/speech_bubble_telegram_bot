@@ -1,0 +1,25 @@
+{
+  "name": "globo",
+  "version": "1.0.0",
+  "description": "Speech Bubble Bot para Telegram",
+  "main": "agregar.js",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "node-telegram-bot-api": "^0.58.0",
+    "sharp": "^0.30.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parzibyte/speech_bubble_teleegram_bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/parzibyte/speech_bubble_teleegram_bot/issues"
+  },
+  "homepage": "https://github.com/parzibyte/speech_bubble_teleegram_bot#readme"
+}
